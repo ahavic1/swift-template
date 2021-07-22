@@ -207,13 +207,6 @@
 			path = Utils;
 			sourceTree = "<group>";
 		};
-		012C422820B716AD007EC314 /* Components */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Components;
-			sourceTree = "<group>";
-		};
 		012C422B20B71705007EC314 /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -403,7 +396,6 @@
 				012C423720B7192A007EC314 /* DAO */,
 				012C423820B71931007EC314 /* Networking */,
 				012C423220B718FA007EC314 /* Repositories */,
-				012C422820B716AD007EC314 /* Components */,
 				012C424720B723AB007EC314 /* Scenes */,
 				012C422020B71192007EC314 /* Utils */,
 				01DBF24520B6FC1600DCEF1B /* AppDelegate.swift */,
